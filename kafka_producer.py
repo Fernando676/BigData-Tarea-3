@@ -1,4 +1,7 @@
 """
+Luis Fernando Ruiz
+Materia Big Data
+UNAD
 Productor Kafka que envía cada fila del CSV al tópico 'datos_clima'.
 Adaptado al formato de columnas y limpieza de valores numéricos.
 """
