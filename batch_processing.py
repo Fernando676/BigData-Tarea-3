@@ -1,4 +1,7 @@
 """
+Luis Fernando Ruiz
+Materia Big Data
+UNAD
 Procesamiento por lotes de datos meteorológicos con limpieza completa.
 Muestra en consola:
 - Datos limpios (primeras filas)
