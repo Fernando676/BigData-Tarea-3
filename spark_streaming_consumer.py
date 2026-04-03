@@ -1,5 +1,8 @@
 
 """
+Luis Fernando Ruiz
+Materia Big Data
+UNAD
 Consumidor de streaming que procesa datos en tiempo real desde Kafka.
 Adaptado al formato de columnas y fechas.
 Realiza agregaciones por ventana de 1 hora para precipitación.
